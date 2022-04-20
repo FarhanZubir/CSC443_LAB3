@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=, initial-scale=1.0">
     <title>Document</title>
 </head>
+<h1>CSC443 LAB3</h1>
 <body>
-    <?php echo "Hello World";?>
+    <?php echo "Hello World"; ?>
 </body>
 </html>
