@@ -6,14 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<h1>CCS443 LAB3</h1>
 <body>
 <?php
 // This is a comment 
-// echo  
-"X equals $x"; 
-$x += 10; // Increment 
-$x by 10 echo $x;
-/* This is a section of multiline comments
+// echo "X equals $x"; 
+$x += 10; // Increment $x by 10 
+echo $x;
+/* This is a section 
+of multiline comments
 that will not be interpreted */
 ?>
 </body>
